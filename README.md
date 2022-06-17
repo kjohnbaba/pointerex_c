@@ -1,1 +1,1 @@
-# pointerex_c
+Small pointers exercise in c
