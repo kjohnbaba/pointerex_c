@@ -1,1 +1,1 @@
-Small pointers exercise in c
+Small pointer exercise in C
